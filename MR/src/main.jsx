@@ -13,5 +13,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
 // One into the other
 
-
-getting rick rolled lol
+// so idea i use a step by step world guide appraoch to the codex app???
