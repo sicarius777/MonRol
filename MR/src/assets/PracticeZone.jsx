@@ -62,7 +62,7 @@ public class DwarfMiner {
                                                         Loved by All the Anvilites
         -->
 
-// lol this is bad why isnt it commenting out???
+
 
 
 
@@ -90,4 +90,8 @@ public class DwarfMiner {
                                 #           /       \           #
                                 ############         ############
 
-                                MINE IS BETTER LOL
+                                MINE IS BETTER LOL.....
+
+
+                                I wonder how much random images i can sneak into this code
+                                
